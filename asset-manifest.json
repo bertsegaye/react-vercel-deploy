@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-vercel-deploy/static/css/main.0de1cc21.css",
+    "main.js": "/react-vercel-deploy/static/js/main.8f18cc35.js",
+    "static/media/bbsm.jpg": "/react-vercel-deploy/static/media/bbsm.c762a51682fd5de60a22.jpg",
+    "static/media/img2.png": "/react-vercel-deploy/static/media/img2.140e843a03bbedec6547.png",
+    "static/media/img3.png": "/react-vercel-deploy/static/media/img3.c60ea6feffb480f499d4.png",
+    "static/media/img4.png": "/react-vercel-deploy/static/media/img4.53dd6fbf3faee97d1c54.png",
+    "static/media/img5.jpg": "/react-vercel-deploy/static/media/img5.305359fd5bd1a6a77eac.jpg",
+    "static/media/Berihuntsegaye_CV.pdf": "/react-vercel-deploy/static/media/Berihuntsegaye_CV.9e2e396fa34ee0d3d274.pdf",
+    "static/media/my-image2.jpg": "/react-vercel-deploy/static/media/my-image2.1b59b24a0327efe9d135.jpg",
+    "index.html": "/react-vercel-deploy/index.html",
+    "main.0de1cc21.css.map": "/react-vercel-deploy/static/css/main.0de1cc21.css.map",
+    "main.8f18cc35.js.map": "/react-vercel-deploy/static/js/main.8f18cc35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0de1cc21.css",
+    "static/js/main.8f18cc35.js"
+  ]
+}
