@@ -75,31 +75,6 @@ const Myprojects = () => {
             </a>
           </div>
         </article>
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG3} alt="" />
-          </div>
-          <h3>My Resume</h3>
-          <small className="text-light">HTML | CSS | JS | Bootstrap</small>
-          <div className="portfolio__item-cta">
-            <a
-              href="https://github.com/Thakshila-Bandara/my-resume"
-              target="_blank"
-              rel="noreferrer"
-              className="btn"
-            >
-              Github
-            </a>
-            <a
-              href="https://thakshila-bandara.github.io/my-resume/"
-              target="_blank"
-              rel="noreferrer"
-              className="btn btn-primary"
-            >
-              Visit Website
-            </a>
-          </div>
-        </article>
       </div>
     </section>
   );
